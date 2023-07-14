@@ -1,0 +1,8 @@
+  
+{
+	"name": "com.neuecc.unirx",
+	"displayName": "UniRx",
+	"version": "7.1.0",
+	"description": "Reactive Extensions for Unity that allows LINQ to events and more. This library is free and opensource on GitHub. More info, supports and sourcecodes, see https://github.com/neuecc/UniRx.",
+	"unity": "2017.1" 
+}
